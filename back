@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>colored page</title>
+<lnk rel="stylesheet" type="text/css" href="ext2.css">
+<style>
+h1
+{
+background-color:#e0ffff;
+}
+div
+{
+background-color:#b0c4de;
+}
+</style>
+<body>
+<h2>i am human</h2>
+<div>test human
+<p>not a human</p>
+still in the race
+</div>
+<p style="color:red;margin-left:20px;">
+hello human</p>
+</body>
+</html>
